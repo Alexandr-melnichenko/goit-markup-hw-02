@@ -76,6 +76,7 @@ ol {
   letter-spacing: 0.04em;
   color: #fff;
   align: center;
+  cursor: pointer;
 }
 .button-hero:hover,
 .button-hero:focus {
